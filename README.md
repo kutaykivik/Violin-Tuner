@@ -1,6 +1,6 @@
 # Objective
 
-Precision tuning of each string is paramount for eliciting accurate notes from a violin. Conventional tuning methods, whether manual or reliant on mobile applications, pose challenges in terms of time efficiency and precision. In response to these challenges, our goal is to introduce a streamlined solution – a circuit designed to accurately and efficiently tune all four violin strings. This innovative approach aims to provide musicians with a user-friendly, time-saving, and cost-effective means of achieving optimal tuning for an enhanced musical performance. For a block diagram of the project, please refer to the accompanying diagram below.
+Precision tuning of each string is paramount for eliciting accurate notes from a violin. Conventional tuning methods, whether manual or reliant on mobile applications, pose challenges in terms of time efficiency and precision. In response to these challenges, our goal is to introduce a streamlined solution – a circuit designed to accurately and efficiently tune all four violin strings. This approach aims to provide musicians with a user-friendly, time-saving, and cost-effective means of achieving optimal tuning for an enhanced musical performance. For a block diagram of the project, please refer to the accompanying diagram below.
 
 
 <p align="center">
