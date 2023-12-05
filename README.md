@@ -1,7 +1,8 @@
 # Objective
 In order to get accurate notes from Violin, each string of the Violin must be tuned correctly. Tuning each string one by one is very difficult and takes a lot of time. We wanted to find a solution to this, since tuning is difficult to do with the ear and on the other hand, tuning applications on phones cannot perform tuning operations precisely. In this direction, our goal is to design a circuit that can tune all four strings of the violin accurately and precisely. This circuit will be simple to use, time-saver and cheap.
 
-# Introduction:
+![image](https://github.com/kutaykivik/Violin-Tuner/assets/89020731/21d06b23-496b-43f3-8138-427e7f54deef)
+
 In the pursuit of refining signal processing and analog-to-digital conversion techniques, several improvements were implemented to overcome challenges encountered in the initial design. This essay outlines key enhancements in three critical aspects: noise cancellation, the conversion of analog to digital signals, and the integration of the ADC output with a 7-segment decoder.
 
 ## Noise Cancellation:
@@ -12,18 +13,3 @@ Originally intended for a 4-bit analog-to-digital converter (ADC), the unavailab
 
 ## Driving ADC Output to 7-Segment Decoder:
 To accurately determine whether the input frequency surpassed or lagged behind the reference signal within the new 0V to 2V range, a logic design incorporating three demultiplexers was devised. This logical framework facilitated the differentiation between input frequencies higher or lower than the reference signal. Subsequently, the output of the ADC was meticulously directed to one of the seven-segment decoders based on the logic design. This strategic integration ensured a precise interpretation of input frequencies, enhancing the overall functionality of the system.
-
-
-# Technical Description
-Block Diagram of Violin Tuner:
-![image](https://github.com/kutaykivik/Violin-Tuner/assets/89020731/21d06b23-496b-43f3-8138-427e7f54deef)
-
-
-## Noise Cancellation
-In the development of a high-quality Violin Tuner, meticulous attention has been given to the requisite frequency range of the instrument's strings. Specifically, the system is designed to accurately analyze signals within the frequency spectrum of 196 Hz to 659.26 Hz, ensuring precision in the tuning process.
-
-### Amplifying Input Signal
-
-
-
-
