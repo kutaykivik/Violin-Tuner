@@ -16,7 +16,8 @@ To accurately determine whether the input frequency surpassed or lagged behind t
 
 # Technical Description
 Block Diagram of Violin Tuner:
-![image](https://github.com/kutaykivik/Violin-Tuner/assets/89020731/44f261c8-2945-4619-ad70-20958c40c11f)
+![image](https://github.com/kutaykivik/Violin-Tuner/assets/89020731/21d06b23-496b-43f3-8138-427e7f54deef)
+
 
 ## Noise Cancellation
 In the development of a high-quality Violin Tuner, meticulous attention has been given to the requisite frequency range of the instrument's strings. Specifically, the system is designed to accurately analyze signals within the frequency spectrum of 196 Hz to 659.26 Hz, ensuring precision in the tuning process.
