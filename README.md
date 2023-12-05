@@ -6,9 +6,6 @@ Precision tuning of each string is paramount for eliciting accurate notes from a
 <p align="center">
   <img src="https://github.com/kutaykivik/Violin-Tuner/assets/89020731/7cfb2cfc-baa5-4368-aadc-77e50ca26a05" alt="Sublime's custom image"/>
 </p>
-<p align="center">
-  Block Diagram of Violin Tuner
-</p>
 
 
 In the pursuit of refining signal processing and analog-to-digital conversion techniques, several improvements were implemented to overcome challenges encountered in the initial design. This essay outlines key enhancements in three critical aspects: noise cancellation, the conversion of analog to digital signals, and the integration of the ADC output with a 7-segment decoder.
